@@ -1,1 +1,2 @@
-# db-token
+# dbtoken
+database token bot
